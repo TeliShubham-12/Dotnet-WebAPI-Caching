@@ -21,6 +21,6 @@ There is one technique for In-Memory Cache — <b>sticky sessions</b>. Sticky se
 #### Distributed Cache — 
 the cache is not contained in the memory of a specific server, instead some other nodes can be used for storing cached data. Thus every server will have access to the cache and even if the server restarts or crashes, the cached data will not be lost.
 
-
+for more details visit the following link. 
 <herf>
 https://blog.devgenius.io/in-memory-and-distributed-cache-net-core-9be16bec34d7</herf>
